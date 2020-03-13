@@ -1,6 +1,6 @@
-# CovidCon
+# stayathomeconf
 
-Covid con is a remote tech conference created to generate good quality talks and let people be distracted and technically up to date meanwhile the covid outbrake.
+stayathomeconf is a remote tech conference created to generate good quality talks and let people be distracted and technically up to date meanwhile the covid outbrake.
 
 
 
