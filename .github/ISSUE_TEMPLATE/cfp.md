@@ -37,6 +37,8 @@ Do the checklist before filing a CFP:
 
 * **What is your preferred presentation time?**
 
+* **Have you ever done similar talks? Where? What was the topic? Can you provide a link?**
+
 * **Provide a talk title**
 
 * **Provide a talk abstract**
